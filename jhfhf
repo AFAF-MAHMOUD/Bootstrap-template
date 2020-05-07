@@ -1,0 +1,41 @@
+font-family ==>web safe fonts
+
+font size by default =16px ==>100%
+
+font size=32px==200%==2em
+2em= 2 times==2*default value
+ 
+ font weight : normal=400;  bold=700;  
+
+ul{
+    list-stype-type= none;square;disq......
+    list-stype-position =outside (default);inside
+    list-stype-image =url('')
+}
+border : solid; double; dashed; dotted;groove; ridge; inset ;outset; hidden......
+ display : inline by default = span ; img ; link (a)(inline ma3naha yjo f nafs star )
+ display : block by default = p ; h1;h2 ;h3;h4,h5,h6 ; div (block kol wa7da f star wa7adha)
+
+
+ overflow: auto, scrll; hidden ; visible
+ Visibility : Visible, Hidden{display none ma3dech yodhor w blasto zada matab9cg fergha mais visibility hidden ma3adch yodhor ama y5alo blasto fergha}
+
+
+   z-index li 3ando akber nomro howa li yji mn foug w yt3amel m3a position
+
+cursor : pointer; cell ........
+
+
+Outline : Width, Style, Color  kima lborder bidhabt ama mayt7sebch ml masa7a mta3 l element kima lborder
+
+.parent >div   ====> (>)= direct child
++ ==> next
+~ ==> siblings (freres)
+p :first-letter{
+    font-size..
+    ..
+}
+p :first-line{
+    font-size..
+    ..
+}
